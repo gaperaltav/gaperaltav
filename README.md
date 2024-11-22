@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+## ⚡ A quick introduction
+- 🔭 I’m currently working on [@Thryv](https://www.thryv.com/) as a Full Satck Engineer.
 - 🌱 I’m currently learning NextJs.
-- 📫 How to reach me: gaperaltav@gmail.com
+- 📫 How to reach me: gaperaltav@gmail.com 
 
 <!--
 **gaperaltav/gaperaltav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
