@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-## ⚡ A quick introduction
-- 🔭 I’m currently working on [@Thryv](https://www.thryv.com/) as a Full Satck Engineer.
+## ⚡ A quick introduction 
+<!-- 🔭 I’m currently working on [@Thryv](https://www.thryv.com/) as a Full Satck Engineer. -->
 - 🌱 I’m currently getting deeper into NextJS and AWS.
 - 📫 How to reach me: gaperaltav@gmail.com 
 
